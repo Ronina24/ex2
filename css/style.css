@@ -206,12 +206,22 @@ button {
 
 .services button {
     margin-top: 33px;
+    margin-bottom: 336px;
+    border: 1.4px solid #458FF6;
+    background-color: transparent;
+    color: #458FF6;
+}
+
+.view button {
+    margin-top: 38px;
+    margin-bottom: 41px;
     border: 1.4px solid #458FF6;
     background-color: transparent;
     color: #458FF6;
 }
 
 footer {
+    margin-left: 1px;
     width: 100%;
     background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
 }
